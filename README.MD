@@ -41,11 +41,8 @@
     <ul style="list-style-type:none; padding-left:0;">
       <li>💻 <b>IT Specialist</b> with passion for building scalable web applications</li>
       <li>🌱 Currently mastering <b>React, Node.js, and API development</b></li>
-      <li>✍️ Writing technical blogs to share knowledge</li>
       <li>🛠️ Enjoy system optimization and performance tuning</li>
       <li>🎧 Love listening to music while coding (Lo-fi beats 🎵)</li>
-      <li>📚 Avid reader of tech books and documentation</li>
-      <li>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes</li>
     </ul>
   </div>
   <div style="flex:1; min-width:300px; text-align:center;">
