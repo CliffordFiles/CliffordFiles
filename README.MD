@@ -28,22 +28,9 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="background:url('https://i.imgur.com/d5ba8eS.gif') no-repeat center center; background-size:cover; padding:20px; border-radius:10px; animation: fadeIn 2s ease-in-out;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,react,nodejs,mysql,vscode,github,figma,tailwind,bootstrap" style="animation: rotate 3s infinite linear;">
+<div align="center" style="background:url('https://i.imgur.com/d5ba8eS.gif') no-repeat center center; background-size:cover; padding:20px; border-radius:10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,react,nodejs,mysql,vscode,github,figma,tailwind,bootstrap" />
 </div>
-
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
-
 
 ---
 
