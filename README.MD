@@ -26,6 +26,8 @@
 <!-- Animated divider -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
+
+
 ## 🛠️ Tech Stack
 
 <div align="center" style="background:url('https://i.imgur.com/d5ba8eS.gif') no-repeat center center; background-size:cover; padding:20px; border-radius:10px;">
