@@ -84,15 +84,7 @@
     </td>
   </tr>
 </table>
-
-<!-- Optional Screenshot Summary (Optional Custom Image Upload) -->
-<!-- Replace the URL below with your uploaded analytics image -->
-<img src="https://github.com/CliffordFiles/CliffordFiles/assets/your-analytics-image.png" width="850px" style="max-width: 100%; border-radius: 12px; margin-top: 20px;" alt="GitHub Analytics Summary"/>
-
 </div>
-
-
-
 
 ---
 
