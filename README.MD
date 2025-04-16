@@ -23,8 +23,8 @@
   </a>
 </p>
 
-<!-- Curved Divider -->
-<img src="https://www.shapedivider.app/svg-assets/curves/curve-invert.svg" width="100%" />
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ## 🛠️ Tech Stack
 
