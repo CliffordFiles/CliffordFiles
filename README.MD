@@ -108,9 +108,9 @@
   <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; color:white;">
     <ul style="list-style-type:none; padding-left:0;">
       <li>🔭 Building a <b>React-based dashboard</b> with Laravel backend</li>
-      <li>🌱 Learning <b>GraphQL and Apollo</b></li>
+      <li>🌱 Learning <b>better Laravel practices and frontend integration</b></li>
       <li>👯 Looking to collaborate on <b>open source projects</b></li>
-      <li>🤔 Exploring <b>microservices architecture</b></li>
+      <li>🤔 Exploring <b>how to make my code more organized and reusable</b></li>
     </ul>
   </div>
 </div>
