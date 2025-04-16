@@ -136,14 +136,16 @@
 
 ## 🔥 My Philosophy in Life
 
-<div align="center" style="margin-top:20px; background:url('https://i.imgur.com/5Z2QY9x.jpg') no-repeat center center; background-size:cover; padding:30px; border-radius:15px;">
-  <div style="background:rgba(255,255,255,0.85); padding:20px; border-radius:10px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
-    <blockquote style="font-family:'Georgia', serif; font-size:18px; color:#333; line-height:1.6; border-left:4px solid #7FB3D5; padding-left:20px; margin:0;">
-      <p>🌿 "Life isn't about finding yourself. Life is about creating yourself."</p>
-      <p>🌅 "Every day may not be good, but there's something good in every day."</p>
-      <p>🌊 "Be like water making its way through cracks. Adjust to the object, and you shall find a way around or through it."</p>
+<div style="background:url('https://i.imgur.com/7YX0X0n.jpg') no-repeat center center; background-size:cover; padding:30px; border-radius:15px; margin:20px 0;">
+  <div style="background:rgba(0,0,0,0.75); padding:25px; border-radius:12px; color:white;">
+    <blockquote style="font-style:italic; border-left:4px solid #58a6ff; padding-left:20px; line-height:1.8;">
+      <p>"Success isn’t about being the best. It’s about always getting better."</p>
+      <p>"Your journey is your power — progress over perfection, always."</p>
+      <p>"Do what lights your soul on fire. The rest will follow."</p>
     </blockquote>
-    <p style="margin-top:15px; font-style:italic; color:#555;">- Inspired by George Bernard Shaw, Alice Morse Earle, and Bruce Lee</p>
+    <div align="center" style="margin-top:20px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+    </div>
   </div>
 </div>
 
