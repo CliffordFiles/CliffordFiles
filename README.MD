@@ -97,13 +97,13 @@
 
 ## ✍️ Latest Blog Posts
 
-> 🚨 *Coming soon! Stay tuned...*
+> 🚨 *Coming soon! Stay tuned...* <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" />
 
 ---
 
 ## 🌟 Featured Repositories
 
-> 🚨 *Coming soon! Stay tuned...*
+> 🚨 *Coming soon! Stay tuned...* <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" />
 
 ---
 
