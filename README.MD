@@ -23,8 +23,9 @@
   </a>
 </p>
 
-<!-- Animated divider -->
-<img src="<iframe src="https://giphy.com/embed/whoXRhu4Qj07eomK5x" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/whoXRhu4Qj07eomK5x">via GIPHY</a></p>" width="100%">
+<!-- Animated divider using img -->
+<img src="https://media.giphy.com/media/whoXRhu4Qj07eomK5x/giphy.gif" width="100%" alt="Animated Divider">
+
 
 
 ## 🛠️ Tech Stack
