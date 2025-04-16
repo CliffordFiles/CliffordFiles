@@ -60,7 +60,7 @@
 
 <!-- Heading -->
 <h3 align="center">
-  🚀 Clifford's GitHub Analytics Dashboard
+  🚀 My GitHub Analytics Dashboard
 </h3>
 
 <!-- Stats Section -->
