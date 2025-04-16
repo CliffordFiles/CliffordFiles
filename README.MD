@@ -134,16 +134,16 @@
 
 ---
 
-## 🔥 My Coding Philosophy
+## 🔥 My Philosophy in Life
 
 <div style="background:url('https://i.imgur.com/7YX0X0n.jpg') no-repeat center center; background-size:cover; padding:30px; border-radius:15px; margin:20px 0;">
-  <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; color:white;">
-    <blockquote style="font-style:italic; border-left:3px solid #58a6ff; padding-left:15px;">
-      <p>"First, solve the problem. Then, write the code."</p>
-      <p>"The only way to learn a new programming language is by writing programs in it."</p>
-      <p>"Clean code always looks like it was written by someone who cares."</p>
+  <div style="background:rgba(0,0,0,0.75); padding:25px; border-radius:12px; color:white;">
+    <blockquote style="font-style:italic; border-left:4px solid #58a6ff; padding-left:20px; line-height:1.8;">
+      <p>"Success isn’t about being the best. It’s about always getting better."</p>
+      <p>"Your journey is your power — progress over perfection, always."</p>
+      <p>"Do what lights your soul on fire. The rest will follow."</p>
     </blockquote>
-    <div align="center">
+    <div align="center" style="margin-top:20px;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
     </div>
   </div>
