@@ -32,13 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,react,nodejs,mysql,vscode,github,figma,tailwind,bootstrap" style="animation: float 6s ease-in-out infinite;" />
 </div>
 
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
 ---
 
 ## 📌 About Me
