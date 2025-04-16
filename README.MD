@@ -23,12 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Web_Developer-38BDF8?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Web_Designer-10B981?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-IT_Specialist-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 <!-- Animated divider -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
