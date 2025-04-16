@@ -23,9 +23,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++" alt="Typing divider">
-</p>
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ## 🛠️ Tech Stack
 
