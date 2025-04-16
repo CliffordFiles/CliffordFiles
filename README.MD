@@ -3,7 +3,7 @@
   Hello, I'm Clifford Jhon C. Gomez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">🚀 WEB Developer | WEB Designer | IT Specialist</h3>
+<h3 align="center">🚀 Web Developer | Web Designer | IT Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/CliffordFiles?tab=repositories">
@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Tech+Blogger;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=🚀+Web+Developer;💻+Web+Designer;🛠️+IT+Specialist" alt="Typing SVG" />
 </div>
 
 ---
