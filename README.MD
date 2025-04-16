@@ -3,7 +3,7 @@
   Hello, I'm Clifford Jhon C. Gomez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">🚀 Full Stack Developer | Web Designer | IT Specialist</h3>
+<h3 align="center">🚀 Web Developer | Web Designer | IT Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/CliffordFiles?tab=repositories">
