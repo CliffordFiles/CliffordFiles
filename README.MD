@@ -24,7 +24,8 @@
 </p>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<img src="<iframe src="https://giphy.com/embed/whoXRhu4Qj07eomK5x" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/whoXRhu4Qj07eomK5x">via GIPHY</a></p>" width="100%">
+
 
 ## 🛠️ Tech Stack
 
