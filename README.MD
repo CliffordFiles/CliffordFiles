@@ -9,11 +9,11 @@
   <a href="https://github.com/CliffordFiles?tab=repositories">
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/clifford-jhon-gomez-340865308/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://dev.to/yourprofile">
-    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <a href="https://www.facebook.com/clifford.gomez.7106">
+    <img alt="Facebook" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/cliffordgomez_/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=black"/>
