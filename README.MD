@@ -105,33 +105,13 @@
 
 ## ✍️ Latest Blog Posts
 
-<div style="background:url('https://i.imgur.com/3Jx2aXa.jpg') no-repeat center center; background-size:cover; padding:30px; border-radius:15px; margin:20px 0;">
-  <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; color:white;">
-    <h3 align="center">📚 My Recent Articles</h3>
-    <ul style="list-style-type:none; padding-left:0;">
-      <li style="margin-bottom:10px;">📝 <a href="https://dev.to/yourprofile/10-tips-for-better-javascript-code" style="color:#58a6ff;">10 Tips for Better JavaScript Code</a></li>
-      <li style="margin-bottom:10px;">📝 <a href="https://dev.to/yourprofile/getting-started-with-laravel" style="color:#58a6ff;">Getting Started with Laravel: A Beginner's Guide</a></li>
-      <li style="margin-bottom:10px;">📝 <a href="https://dev.to/yourprofile/understanding-rest-apis" style="color:#58a6ff;">Understanding REST APIs: The Complete Guide</a></li>
-    </ul>
-  </div>
-</div>
+> 🚨 *Coming soon! Stay tuned...*
 
 ---
 
 ## 🌟 Featured Repositories
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:20px; margin:30px 0;">
-  <div style="background:linear-gradient(135deg, #f093fb, #f5576c); padding:20px; border-radius:10px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
-    <a href="https://github.com/CliffordFiles/awesome-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliffordFiles&repo=awesome-project&theme=radical" />
-    </a>
-  </div>
-  <div style="background:linear-gradient(135deg, #4facfe, #00f2fe); padding:20px; border-radius:10px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
-    <a href="https://github.com/CliffordFiles/open-source-contrib">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliffordFiles&repo=open-source-contrib&theme=radical" />
-    </a>
-  </div>
-</div>
+> 🚨 *Coming soon! Stay tuned...*
 
 ---
 
