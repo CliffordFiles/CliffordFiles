@@ -150,6 +150,5 @@
 </div>
 
 ---
-[Spotify Player](https://open.spotify.com/embed/track/YOUR_TRACK_ID)
 
 
