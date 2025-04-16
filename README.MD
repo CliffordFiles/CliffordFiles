@@ -54,27 +54,35 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Container with custom background and padding -->
-<div align="center" style="background: url('https://i.imgur.com/8B8Q4Yx.jpg') center/cover no-repeat; padding: 40px 20px; border-radius: 20px; margin: 30px 0; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=🚀+Web+Developer;Web+Designer;IT+Specialist" alt="Typing SVG" />
+</p>
 
-  <!-- Header -->
-  <h3 style="color: #38BDF8; font-family: 'Fira Code', monospace; font-size: 28px; margin-bottom: 20px;">
+<div align="center" style="background: linear-gradient(to right, #0f172a, #1e293b); padding: 40px 20px; border-radius: 20px; margin: 30px 0; box-shadow: 0 0 30px rgba(56, 189, 248, 0.2);">
+
+  <h3 style="color: #38BDF8; font-family: 'Fira Code', monospace; font-size: 28px; margin-bottom: 10px;">
     🚀 Clifford's GitHub Analytics Dashboard
   </h3>
 
-  <!-- First Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CliffordFiles&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CliffordFiles&theme=radical&hide_border=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
+  <!-- Custom Stats Row -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CliffordFiles&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="width: 340px; border-radius: 12px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CliffordFiles&theme=radical&hide_border=true" style="width: 340px; border-radius: 12px;" />
   </div>
 
-  <!-- Second Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffordFiles&layout=compact&theme=radical&hide_border=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
-    <img src="https://github-profile-trophy.vercel.app/?username=CliffordFiles&theme=radical&no-frame=true&row=2&column=3" style="border-radius: 12px; max-width: 100%; width: 350px;" />
+  <!-- Language + Trophy Row -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffordFiles&layout=compact&theme=radical&hide_border=true" style="width: 340px; border-radius: 12px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=CliffordFiles&theme=radical&no-frame=true&row=2&column=3" style="width: 340px; border-radius: 12px;" />
+  </div>
+
+  <!-- Analytics Summary (screenshot style alternative) -->
+  <div style="margin-top: 30px;">
+    <img src="https://github.com/CliffordFiles/CliffordFiles/assets/your-image-id-here.png" style="width: 700px; max-width: 100%; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" alt="GitHub Analytics Summary" />
   </div>
 
 </div>
+
 
 
 ---
