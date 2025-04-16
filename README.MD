@@ -42,7 +42,7 @@
       <li>💻 <b>IT Specialist</b> with passion for building scalable web applications</li>
       <li>🌱 Currently mastering <b>React, Node.js, and API development</b></li>
       <li>🛠️ Enjoy system optimization and performance tuning</li>
-      <li>🎧 Love listening to music while coding (Lo-fi beats 🎵)</li>
+      <li>🎧 Love listening to music while coding (Euro beat 🎵)</li>
     </ul>
   </div>
   <div style="flex:1; min-width:300px; text-align:center;">
