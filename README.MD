@@ -23,10 +23,8 @@
   </a>
 </p>
 
-<!-- Animated divider using img -->
-<img src="https://media.giphy.com/media/whoXRhu4Qj07eomK5x/giphy.gif" width="100%" alt="Animated Divider">
-
-
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ## 🛠️ Tech Stack
 
