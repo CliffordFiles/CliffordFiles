@@ -150,5 +150,6 @@
 </div>
 
 ---
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?playlist=37i9dQZF1DXcBWIGoYBM5M)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+[Spotify Player](https://open.spotify.com/embed/track/YOUR_TRACK_ID)
+
 
