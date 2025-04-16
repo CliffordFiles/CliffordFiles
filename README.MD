@@ -15,10 +15,10 @@
   <a href="https://dev.to/yourprofile">
     <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/yourprofile">
-    <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  <a href="https://www.instagram.com/cliffordgomez_/">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=black"/>
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://x.com/JustMe_Clifford">
     <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
