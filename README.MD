@@ -33,6 +33,10 @@
 
 <div align="center" style="background:url('https://i.imgur.com/d5ba8eS.gif') no-repeat center center; background-size:cover; padding:20px; border-radius:10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,react,nodejs,mysql,vscode,github,figma,tailwind,bootstrap" />
+</div><br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
 </div>
 
 ---
