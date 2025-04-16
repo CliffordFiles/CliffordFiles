@@ -86,23 +86,6 @@
 
 ---
 
-## 🚀 Latest Projects
-
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin:30px 0;">
-  <div style="background:linear-gradient(135deg, #6e8efb, #a777e3); padding:15px; border-radius:10px; width:45%; min-width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
-    <a href="https://github.com/CliffordFiles/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliffordFiles&repo=project1&theme=radical" />
-    </a>
-  </div>
-  <div style="background:linear-gradient(135deg, #6e8efb, #a777e3); padding:15px; border-radius:10px; width:45%; min-width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
-    <a href="https://github.com/CliffordFiles/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliffordFiles&repo=project2&theme=radical" />
-    </a>
-  </div>
-</div>
-
----
-
 ## ✍️ Latest Blog Posts
 
 > 🚨 *Coming soon! Stay tuned...*
