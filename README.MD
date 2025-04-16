@@ -54,28 +54,28 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="background:url('https://i.imgur.com/8B8Q4Yx.jpg') no-repeat center center; background-size:cover; padding:30px; border-radius:15px; margin:20px 0;">
+<!-- Container with custom background and padding -->
+<div align="center" style="background: url('https://i.imgur.com/8B8Q4Yx.jpg') center/cover no-repeat; padding: 40px 20px; border-radius: 20px; margin: 30px 0; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
 
-  <!-- Stats Row -->
-  <div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px; margin-bottom:20px;">
-    <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; width:45%; min-width:300px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=CliffordFiles&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    </div>
-    <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; width:45%; min-width:300px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CliffordFiles&theme=radical&hide_border=true" />
-    </div>
+  <!-- Header -->
+  <h3 style="color: #38BDF8; font-family: 'Fira Code', monospace; font-size: 28px; margin-bottom: 20px;">
+    🚀 Clifford's GitHub Analytics Dashboard
+  </h3>
+
+  <!-- First Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CliffordFiles&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CliffordFiles&theme=radical&hide_border=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
   </div>
 
-  <!-- Second Stats Row -->
-  <div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px;">
-    <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; width:45%; min-width:300px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffordFiles&layout=compact&theme=radical&hide_border=true" />
-    </div>
-    <div style="background:rgba(0,0,0,0.7); padding:20px; border-radius:10px; width:45%; min-width:300px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=CliffordFiles&theme=radical&no-frame=true&row=2&column=3" />
-    </div>
+  <!-- Second Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffordFiles&layout=compact&theme=radical&hide_border=true" style="border-radius: 12px; max-width: 100%; width: 350px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=CliffordFiles&theme=radical&no-frame=true&row=2&column=3" style="border-radius: 12px; max-width: 100%; width: 350px;" />
   </div>
+
 </div>
+
 
 ---
 
